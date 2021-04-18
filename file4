@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Testing rebase now"
+echo "need to change some other files as well"
