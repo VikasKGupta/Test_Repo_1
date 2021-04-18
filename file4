@@ -1,4 +1,4 @@
 #!/bin/sh
-
-echo "Testing rebase now"
-echo "need to change some other files as well"
+echo ""[Dthis is to test rebase attempt 2"
+:wq
+[Add:
