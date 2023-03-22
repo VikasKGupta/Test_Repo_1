@@ -3,9 +3,9 @@ echo "Hello World"
 echo "This is file 1 changing this line to check -G"
 echo "Adding some lines of codes here"
 echo "one more line is added to perform git merge"
-fico 
-fico
-fico
-fico
-fico
-fico
+
+
+
+
+
+echo "This is final code"
